@@ -1,0 +1,11 @@
+.main-container{
+    min-height: 480px;
+    margin-bottom: 20px;
+}
+.img-main-carousel{
+    max-height: 800px;
+    margin:0 auto;
+}
+.carousel-control.right, .carousel-control.left{
+    cursor: pointer;
+}
